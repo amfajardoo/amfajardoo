@@ -28,7 +28,9 @@ I thrive in the world of structured and reactive development. Here's a look at t
 
 I focus on developing cohesive Frontend solutions where the backend and frontend complement each other perfectly.
 
-* **[ws-in-the-shaaat](https://github.com/amfajardoo/ws-in-the-shaaat)** 
+* **[ws-in-the-shaaat](https://github.com/amfajardoo/ws-in-the-shaaat)**
+* **[project_code_editor](https://github.com/amfajardoo/project_code_editor)**
+* **[save-data-calculator](https://github.com/amfajardoo/save-data-calculator)**
 
 ---
 
@@ -37,7 +39,7 @@ I focus on developing cohesive Frontend solutions where the backend and frontend
 > *"Code is like humor. When you have to explain it, it’s bad."* - **Cory House**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amfajardoo&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amfajardoo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfajardoo&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
