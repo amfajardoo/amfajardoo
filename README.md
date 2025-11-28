@@ -39,8 +39,20 @@ I focus on developing cohesive Frontend solutions where the backend and frontend
 > *"Code is like humor. When you have to explain it, it’s bad."* - **Cory House**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amfajardoo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfajardoo&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Profile summary (works in GitHub preview) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amfajardoo&theme=radical" alt="Profile Details" />
+
+  <!-- Languages + Most active language (compact, usually renders fine) -->
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amfajardoo&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amfajardoo&theme=radical" alt="Top Commit Language" />
+</p>
+
+<p align="center">
+  <!-- Small badges as fallback for quick stats (very reliable) -->
+  <img src="https://img.shields.io/github/followers/amfajardoo?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amfajardoo?label=Stars&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/amfajardoo/project_code_editor?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
 </p>
 
 ---
