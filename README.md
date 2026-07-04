@@ -34,6 +34,14 @@ I focus on developing cohesive Frontend solutions where the backend and frontend
 
 ---
 
+## ⚽ Gitfut stats
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/127416ac-5007-4e91-9dcd-411c9eedd8e5" width="350" alt="GitHub Stats" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 > *"Code is like humor. When you have to explain it, it’s bad."* - **Cory House**
